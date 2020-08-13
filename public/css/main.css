@@ -1,0 +1,11 @@
+#header .bt_bb_row .bt_bb_column .bt_bb_column_content {
+    color: #fff !important;
+}
+
+.v-main {
+    margin-top: 60px !important;
+}
+
+#create .v-toolbar__content, .v-toolbar__extension {
+    display: inline-grid !important;
+}
